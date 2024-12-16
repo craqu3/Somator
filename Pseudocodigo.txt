@@ -1,0 +1,10 @@
+Algoritmo Soma;
+Variáveis a,b,soma:inteiro;
+Início
+	Escrever("Intruduza um número inteiro:")
+	Ler(a);
+	Escrever("Intruduza outro número inteiro:")
+	Ler(b);
+	Soma <= a+b;
+	Escrever("O resultado da soma",a," + ",b," = ",soma);
+Fim.
