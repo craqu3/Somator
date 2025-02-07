@@ -3,4 +3,4 @@
 3- Solicita ao utilizador o operando b
 4- Calcula a soma entre a e b
 5- Apresenta o resultado da operação calculada no ponto 4
-5- Fim
+6- Fim

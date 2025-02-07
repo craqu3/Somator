@@ -1,10 +1,10 @@
-Algoritmo Soma;
-Variáveis a,b,soma:inteiro;
-Início
-	Escrever("Intruduza um número inteiro:")
-	Ler(a);
-	Escrever("Intruduza outro número inteiro:")
-	Ler(b);
-	Soma <= a+b;
-	Escrever("O resultado da soma",a," + ",b," = ",soma);
-Fim.
+Somator Algorithm;
+Variables a,b,sum:integer;
+Start
+	Write("Enter an integer:")
+	Read(one);
+	Write("Enter another integer:")
+	Read(b);
+	Sum <= a+b;
+	Write("The result of the sum",a," + ",b," = ",sum);
+End.
